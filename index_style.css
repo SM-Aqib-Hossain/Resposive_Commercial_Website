@@ -1,6 +1,13 @@
+body {
+  font-family: "Philosopher", "sans-serif";
+}
+nav {
+  font-family: "Philosopher";
+}
 main {
   background-color: #36454f;
   padding-bottom: 50px;
+  font-family: "Philosopher";
 }
 .c-item {
   height: 600px;
